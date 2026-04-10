@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cinema Theme Colors -->
+    <color name="primary">#E50914</color>
+    <color name="primary_dark">#B00710</color>
+    <color name="primary_light">#FF453A</color>
+    <color name="secondary">#FFB300</color>
+    <color name="secondary_dark">#FF8F00</color>
+
+    <!-- Background -->
+    <color name="background_dark">#0F0F0F</color>
+    <color name="background_card">#1C1C1E</color>
+    <color name="background_surface">#242426</color>
+    <color name="background_light">#F5F5F5</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#ABABAB</color>
+    <color name="text_hint">#6E6E6E</color>
+    <color name="text_dark">#1A1A1A</color>
+
+    <!-- Status -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FFC107</color>
+
+    <!-- Misc -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="overlay">#99000000</color>
+    <color name="divider">#2A2A2C</color>
+    <color name="star_gold">#FFD700</color>
+    <color name="genre_bg">#2D1B1B</color>
+
+    <!-- Seat states -->
+    <color name="seat_empty">#2A2A2C</color>
+    <color name="seat_booked">#3A3A3E</color>
+</resources>
